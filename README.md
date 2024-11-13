@@ -1,5 +1,5 @@
 # aagudoper.github.io
-Técnicas asignadas:
-+ Line chart url 
-+ Correlation Matrices url
-+ OHLC Charts url
+# Técnicas asignadas:
++ Line chart
++ Correlation Matrices
++ OHLC Charts
