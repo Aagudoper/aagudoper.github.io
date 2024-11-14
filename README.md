@@ -7,4 +7,4 @@
     + Sitio web tableau: https://public.tableau.com/app/profile/almudena.agudo8805/viz/CorrelationMatrice/Hoja1
 + OHLC Charts
     + Conjunto de datos: https://www.kaggle.com/datasets/swaptr/bitcoin-historical-data
-    + Sitio web tableau: 
+    + Sitio web tableau: https://public.tableau.com/app/profile/almudena.agudo8805/viz/OHLC_17315484218510/Hoja1?publish=yes
